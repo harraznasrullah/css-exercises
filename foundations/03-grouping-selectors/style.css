@@ -1,0 +1,15 @@
+.firstchoice,
+.secondchoice{
+    font-size: 28px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif, "Times New Roman", Times, serif;
+}
+
+.firstchoice{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.secondchoice{
+    background-color: yellow;
+}
